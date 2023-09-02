@@ -1,5 +1,9 @@
 ### Hi there 👋
+## Hello, My name is Miguel and these are some things about me!
 
+- I am currently studying at The University Of Texas at El Paso (UTEP) for a bachelors in Information systems, with a minor in Accounting
+- I have two dogs, which I both really love and there important to me when I feel stressed by playing with them 😊
+- My hobbies include repairing laptops and phones, and playing videogames for fun 🙂
 <!--
 **Cakee77/Cakee77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
